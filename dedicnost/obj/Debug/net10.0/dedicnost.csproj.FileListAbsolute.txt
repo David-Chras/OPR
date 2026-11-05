@@ -1,0 +1,14 @@
+C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\bin\Debug\net10.0\dedicnost.exe
+C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\bin\Debug\net10.0\dedicnost.deps.json
+C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\bin\Debug\net10.0\dedicnost.runtimeconfig.json
+C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\bin\Debug\net10.0\dedicnost.dll
+C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\bin\Debug\net10.0\dedicnost.pdb
+C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\obj\Debug\net10.0\dedicnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\obj\Debug\net10.0\dedicnost.AssemblyInfoInputs.cache
+C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\obj\Debug\net10.0\dedicnost.AssemblyInfo.cs
+C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\obj\Debug\net10.0\dedicnost.csproj.CoreCompileInputs.cache
+C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\obj\Debug\net10.0\dedicnost.dll
+C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\obj\Debug\net10.0\refint\dedicnost.dll
+C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\obj\Debug\net10.0\dedicnost.pdb
+C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\obj\Debug\net10.0\dedicnost.genruntimeconfig.cache
+C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\obj\Debug\net10.0\ref\dedicnost.dll
