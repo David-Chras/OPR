@@ -16,6 +16,8 @@
            Bojovnik barbar = new Bojovnik(1,"Conan", "meč");
            Kouzelnik lubomír = new Kouzelnik(2, "Lubomír", 9);
            FinalBoss finalBoss = new FinalBoss("ElGrando", 25, 2000, 120);
+
+           Bojovnik Bajaja = new Bojovnik(3, "Bajaja", "meč");
            
            finalBoss.VypisInformace();
            finalBoss.PrepniBojovyRezim();
@@ -26,7 +28,6 @@
            
            Malakor.Utoc();
            Malakor.PredstavSe();
-           Console.WriteLine(Malakor.Hlaska);
            barbar.PredstavSe();
            barbar.Utoc();
            barbar.ZvedniStit();
@@ -43,6 +44,16 @@
            Console.WriteLine(lubomír.Mana);
 
            lubomír.Meditace();
+
+           //Postava postava = new Postava("Test", 1);
+
+           List<Postava> postavy = new List<Postava>();
+           postavy.Add(barbar);
+           postavy.Add(lubomír);
+           postavy.Add(Malakor);
+           postavy.Add(finalBoss);
+           postavy.Add(Bajaja);
+           foreach (Postava postava in postavy) postava.Utoc();
         }
     }
 }

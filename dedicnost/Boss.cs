@@ -63,7 +63,7 @@ namespace Dedicnost
                     break;
 
                 default:
-                    base.Utoc();
+                    Utoc();
                 break;
             }
         }

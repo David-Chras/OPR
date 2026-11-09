@@ -12,3 +12,4 @@ C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\obj\Debug\net10.0\refint\dedicn
 C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\obj\Debug\net10.0\dedicnost.pdb
 C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\obj\Debug\net10.0\dedicnost.genruntimeconfig.cache
 C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\obj\Debug\net10.0\ref\dedicnost.dll
+C:\Users\24307\Documents\OOP\Dedicnost\dedicnost\obj\Debug\net10.0\dedicnost.sourcelink.json

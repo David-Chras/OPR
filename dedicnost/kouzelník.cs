@@ -35,7 +35,7 @@ namespace Dedicnost
             else
             {
                 Console.WriteLine("Nemám dost many na kouzlení!");
-                base.Utoc();
+                ;
             }
         }
 
